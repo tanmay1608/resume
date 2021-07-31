@@ -1,0 +1,68 @@
+{
+	"basics": {
+		"name": "Tanmay Kumar Barjatya",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2019kuec2003@iiitkota.ac.in",
+		"phone": "9636453156",
+		"summary": " I am creative and curiosity-driven Android app developer with intuitive problem-solving skills.Currently Pursuing Bachelors of Technology in Electronics and Communications Engineering at IIIT Kota .",
+		"location": {
+			"postalCode": "302015",
+			"city": "Jaipur",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/<handle>"
+			},
+			{
+				"network": "Github",
+				"username": "Barjatya",
+				"url": "https://github.com/tanmay1608"
+			},
+			{
+				"network": "linkedin",
+				"username": "Tanmay Barjatya",
+				"url": "https://www.linkedin.com/in/tanmay-barjatya-b84580217/"
+			},
+			{
+				"network": "Instagram",
+				"username": "tanmaybarjatya",
+				"url": "https://www.instagram.com/tanmaybarjatya/"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08 //Date",
+		"endDate": "2023",
+		"gpa": "7.50",
+		"courses": [
+			"Electronics and Communications Engineering"
+		]
+	}],
+
+	"publications": [{
+		"title": "News App",
+		"details": "Fetches news of different generes from rest API in form of json",
+		"link": "https://github.com/tanmay1608/News_App"
+	}, {
+		"title": "College News App",
+		"details": "Updates everyyhing about college such as classes, exams, events etc.",
+		"link": "https://github.com/tanmay1608/CollegeNewsApp"
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "JAVA", "XML", "Android app development", "Firebase", "Swing", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}]
+
+}
